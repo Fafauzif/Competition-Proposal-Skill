@@ -1,0 +1,4 @@
+interface:
+  display_name: "Competition Brainstorming"
+  short_description: "Develop an idea against a competition brief"
+  default_prompt: "Use $competition-brainstorming. Develop my initial idea and flag any weakness that warrants an alternative."

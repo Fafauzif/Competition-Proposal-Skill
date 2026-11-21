@@ -1,0 +1,4 @@
+interface:
+  display_name: "Innovation Essay"
+  short_description: "Build a literature-led innovation submission"
+  default_prompt: "Use $innovation-essay. Turn this brief and idea into an evidence-led innovation essay."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Proposal Strategy and Argument"
+  short_description: "Build the argument and show the solution in use"
+  default_prompt: "Use $proposal-strategy-and-argument. Develop the complete proposal from the evidence and selected idea."

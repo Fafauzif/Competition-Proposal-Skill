@@ -1,0 +1,4 @@
+interface:
+  display_name: "Appendices and Document Production"
+  short_description: "Build compact files with linked visual appendices"
+  default_prompt: "Use $appendices-and-document-production. Produce the written submission and verify the exhibit links."

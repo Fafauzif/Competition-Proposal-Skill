@@ -1,0 +1,4 @@
+interface:
+  display_name: "Charts, Figures, and Tables"
+  short_description: "Choose and render editable analytical figures"
+  default_prompt: "Use $charts-figures-and-tables. Select and produce readable exhibits from the supplied data."

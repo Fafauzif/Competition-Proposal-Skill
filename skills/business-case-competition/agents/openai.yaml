@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Case Competition"
+  short_description: "Answer a client decision with supported analysis"
+  default_prompt: "Use $business-case-competition. Make the written recommendation for this client and case."

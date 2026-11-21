@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Plan Competition"
+  short_description: "Explain customer demand and venture viability"
+  default_prompt: "Use $business-plan-competition. Develop a written business plan with a credible operating and funding model."

@@ -1,0 +1,15 @@
+{
+  "id": "compact-gantt",
+  "type": "gantt",
+  "width_cm": 16,
+  "font_pt": 10,
+  "periods": ["Bulan 1", "Bulan 2", "Bulan 3", "Bulan 4"],
+  "tasks": [
+    {"label": "Siapkan peta dan data", "start": 1, "end": 1},
+    {"label": "Bangun penampang dan rencana", "start": 2, "end": 2},
+    {"label": "Laksanakan survei awal", "start": 3, "end": 3},
+    {"label": "Tinjau hasil dan tetapkan prosedur", "start": 4, "end": 4}
+  ],
+  "example_status": "Illustrative proposed schedule",
+  "source_note": "Lautara layout example. Months run from team assignment; the planned durations are illustrative."
+}

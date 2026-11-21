@@ -1,0 +1,4 @@
+interface:
+  display_name: "Competition Brief and Scope"
+  short_description: "Read the rubric and preserve the full scope"
+  default_prompt: "Use $competition-brief-and-scope. Turn the attached guidebook into a practical scope and requirements check."

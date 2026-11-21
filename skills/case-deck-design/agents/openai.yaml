@@ -1,0 +1,15 @@
+interface:
+  display_name: Case Deck Design
+  short_description: Adapt editable slide-bank elements to your case deck
+  default_prompt: Use $case-deck-design with my context pack, current deck and slide
+    bank to build or revise the requested deck. Preserve my approved content and design
+    guidelines, and ask only about consequential unresolved choices.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: false

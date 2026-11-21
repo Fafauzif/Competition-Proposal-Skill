@@ -1,0 +1,4 @@
+interface:
+  display_name: "Implementation, Impact, and Feasibility"
+  short_description: "Plan delivery and check feasibility and impact"
+  default_prompt: "Use $implementation-impact-and-feasibility. Turn the solution into a credible rollout with owners and measures."

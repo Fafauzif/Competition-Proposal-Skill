@@ -1,0 +1,4 @@
+interface:
+  display_name: "Find and Use Tools"
+  short_description: "Find a tool that works in this environment"
+  default_prompt: "Use $find-and-use-tools. Choose a suitable tool for my task and verify the required operation."

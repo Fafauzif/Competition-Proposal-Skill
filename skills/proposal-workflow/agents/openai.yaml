@@ -1,0 +1,4 @@
+interface:
+  display_name: "Proposal Workflow"
+  short_description: "Route a proposal from brief to final check"
+  default_prompt: "Use $proposal-workflow. Plan or produce my competition submission from the attached brief."

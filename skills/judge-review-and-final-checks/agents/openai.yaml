@@ -1,0 +1,4 @@
+interface:
+  display_name: "Judge Review and Final Checks"
+  short_description: "Review against the rubric and verify the final file"
+  default_prompt: "Use $judge-review-and-final-checks. Review the final submission against the brief and verify the actual export."

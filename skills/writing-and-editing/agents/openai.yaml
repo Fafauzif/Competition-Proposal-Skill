@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing and Editing"
+  short_description: "Write and revise for the intended reader"
+  default_prompt: "Use $writing-and-editing. Revise the marked text in the register appropriate to this submission."

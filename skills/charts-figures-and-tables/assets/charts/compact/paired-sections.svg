@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160mm" height="61mm" viewBox="0 0 640 244" role="img" aria-labelledby="title desc">
+  <title id="title">Dua penampang survei pesisir</title>
+  <desc id="desc">Penampang pembanding dengan kedalaman rencana dan aktual. Kedua panel memakai skala visual yang sama. Skema ilustratif, tanpa data pengukuran.</desc>
+  <rect width="640" height="244" fill="#fff"/>
+  <g font-family="Liberation Sans,Arial,sans-serif" fill="#142922">
+    <text x="12" y="21" font-size="15" font-weight="bold">A. Kedalaman rencana</text>
+    <text x="334" y="21" font-size="15" font-weight="bold">B. Kedalaman aktual</text>
+    <g transform="translate(12 34)">
+      <rect width="294" height="166" fill="#edf4f3" stroke="#bacac4"/>
+      <path d="M0 117 L65 130 L126 152 L212 132 L294 120 V166 H0Z" fill="#d2e2d9"/>
+      <path d="M16 32H275" stroke="#668c91"/>
+      <path d="M125 32V115 M125 57H145 M125 112H145" stroke="#106658"/>
+      <circle cx="125" cy="57" r="4" fill="#106658"/>
+      <circle cx="125" cy="112" r="4" fill="#106658"/>
+      <text x="151" y="61" font-size="13">Sasaran 1</text>
+      <text x="151" y="116" font-size="13">Sasaran 2</text>
+      <text x="21" y="26" font-size="13">Muka air</text>
+    </g>
+    <g transform="translate(334 34)">
+      <rect width="294" height="166" fill="#edf4f3" stroke="#bacac4"/>
+      <path d="M0 117 L65 130 L126 152 L212 132 L294 120 V166 H0Z" fill="#d2e2d9"/>
+      <path d="M16 32H275" stroke="#668c91"/>
+      <path d="M125 32V91 M125 57H145 M125 91H145" stroke="#106658"/>
+      <circle cx="125" cy="57" r="4" fill="#106658"/>
+      <circle cx="125" cy="91" r="4" fill="#106658"/>
+      <text x="151" y="61" font-size="13">Sampel 1</text>
+      <text x="151" y="95" font-size="13">Sampel 2</text>
+      <text x="21" y="26" font-size="13">Muka air</text>
+    </g>
+    <text x="12" y="224" font-size="13">Ilustrasi pencatatan sasaran dan hasil pada satu stasiun. Skema tanpa skala.</text>
+  </g>
+</svg>
